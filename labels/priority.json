@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Priority: Low",
+    "color": "#FFCDD2"
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "#E57373"
+  },
+  {
+    "name": "Priority: High",
+    "color": "#F44336"
+  },
+  {
+    "name": "Priority: Critical",
+    "color": "#D32F2F"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Status: Available",
+    "color": "#0277BD"
+  },
+  {
+    "name": "Status: Accepted",
+    "color": "#0277BD"
+  },
+  {
+    "name": "Status: In Progress",
+    "color": "#0277BD"
+  },
+  {
+    "name": "Status: In Review",
+    "color": "#0277BD"
+  },
+  {
+    "name": "Status: Complete",
+    "color": "#0277BD"
+  },
+  {
+    "name": "Status: Blocked",
+    "color": "#0277BD"
+  },
+  {
+    "name": "Status: Abandonded",
+    "color": "#0277BD"
+  }
+]
